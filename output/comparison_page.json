@@ -1,0 +1,27 @@
+{
+  "page_type": "Comparison Page",
+  "title": "GlowBoost Vitamin C Serum vs DermaGlow Hydra Serum",
+  "content": {
+    "primary_product": "GlowBoost Vitamin C Serum",
+    "competitor_product": "DermaGlow Hydra Serum",
+    "comparison_table": [
+      {
+        "feature": "Key Ingredients",
+        "us": "Vitamin C, Hyaluronic Acid",
+        "them": "Vitamin C, Niacinamide"
+      },
+      {
+        "feature": "Price",
+        "us": "\u20b9699",
+        "them": "\u20b9899"
+      },
+      {
+        "feature": "Concentration",
+        "us": "10% Vitamin C",
+        "them": "5% Vitamin C"
+      }
+    ],
+    "verdict": "GlowBoost Vitamin C Serum offers a higher concentration (10% Vitamin C) compared to DermaGlow Hydra Serum."
+  },
+  "meta_metadata": {}
+}
