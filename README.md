@@ -38,4 +38,3 @@ Open the `output` folder. You will see three new files:
 - **Templates**: We use simple Python classes to define how a page looks. See `src/templates.py`.
 - **Agents**: Each agent has one job. Check `src/agents.py` to see them in action.
 
-Enjoy coding! 🚀
