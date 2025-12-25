@@ -13,6 +13,10 @@ It uses **Agents** to split the work, just like a real team would:
 - `src/`: The code for our agents and logic.
 - `main.py`: The control center that runs everything.
 
+## System Architecture
+<img width="672" height="788" alt="image" src="https://github.com/user-attachments/assets/dad4f735-2e46-4aee-b239-3aca6ecb96a1" />
+
+
 ## 🚀 How to Run
 
 ### Prerequisite
@@ -37,4 +41,5 @@ Open the `output` folder. You will see three new files:
 - **Modularity**: We kept logic separate from agents. See `src/logic_blocks.py`.
 - **Templates**: We use simple Python classes to define how a page looks. See `src/templates.py`.
 - **Agents**: Each agent has one job. Check `src/agents.py` to see them in action.
+
 
